@@ -1,0 +1,4 @@
+langchain~=0.0.347
+unstructured~=0.11.2
+python-dotenv~=1.0.0
+slack_bolt~=1.18.1
