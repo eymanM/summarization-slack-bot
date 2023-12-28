@@ -1,2 +1,5 @@
+slack-bolt/
+slack_bolt/
+vendor/
 .env
 .idea
